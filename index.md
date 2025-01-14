@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# Welcome
+# Ivy Roman
 
-Hello World. Hello Friend.
+Anything is Possible. The Impossible Just Takes Longer.
 
